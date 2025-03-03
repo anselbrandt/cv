@@ -2,7 +2,7 @@
 
 |                        ||
 | ---------------------- | --- |
-| Location:              | Vancouver / Montreal |
+| Location:              | Vancouver, BC / Montreal, QC |
 | Remote:                | Yes|
 | Willing to relocate:   | Yes |
 | Technologies:          | |

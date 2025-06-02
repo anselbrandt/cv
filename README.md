@@ -2,7 +2,7 @@
 
 |                        ||
 | ---------------------- | --- |
-| Location:              | Vancouver, BC / Montreal, QC |
+| Location:              |  Montreal, QC / Vancouver, BC |
 | Remote:                | Yes|
 | Willing to relocate:   | Yes |
 | Technologies:          | Currently: Typescript, React, Next.js, Tailwind, OAuth2, Python, Pydantic, uv, FastAPI, HTMX, LLMs, Docker, Chroma DB, Pytorch, llama.cpp, CUDA, EC2, S3, Caddy, SQLite, PostgreSQL, Grafana, Prometheus, Linux, Raspberry Pi |
